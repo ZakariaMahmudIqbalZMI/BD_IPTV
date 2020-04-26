@@ -6,6 +6,8 @@ ALL bangladeshi IPTV links are BDIX connected.
 
 150+ channels are BDIX connected.
 
+IPTV Link : https://raw.githubusercontent.com/ihossain5/BD_IPTV/master/BD%20IPTV.m3u
+
 
 
 
